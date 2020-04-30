@@ -1,0 +1,10 @@
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csprojAssemblyReference.cache
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Form1.resources
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.Properties.Resources.resources
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.GenerateResource.cache
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+C:\Users\orlov\source\repos\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
